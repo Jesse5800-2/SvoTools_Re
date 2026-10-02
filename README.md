@@ -99,6 +99,25 @@ svo_extracted/
 - `manifest.json` 中的 `pad` 与 `tail_raw` 用于保证 1:1 还原，不建议手工修改
 - 仅支持小端 `AVTS` / `YABX`
 
+
+## 免责声明
+
+本项目为学习与兼容性目的的格式研究工具，不鼓励、不支持任何非法的盗版、运营、修改或逆向工程行为。
+
+- 本工具仅用于解析个人拥有的资源文件，不提供任何游戏资源下载。
+- 本工具不包含任何受版权保护的图像、音频、视频或二进制文件。
+- 本工具不涉及对程序二进制或代码的逆向工程，仅研究非二进制资源文件的格式结构。
+- 相关商标与版权归原权利人所有。
+
+---
+
+This project is a format research tool for learning and interoperability purposes. It does not condone or support illegal piracy, operation, modification, or reverse engineering.
+
+- This tool is intended for parsing resource files that the user already owns. It does not provide any game asset downloads.
+- This tool contains no copyrighted images, audio, video, or binary files.
+- This tool does not involve reverse engineering of program binaries or code; it only studies the structure of non-binary resource files.
+- All trademarks and copyrights belong to their respective owners.
+
 ## 📄相关文档
 
 - `svo_format.md` — 本仓库内的 SVO 格式规格说明，来自**GekiChuMaiLocalizedDocument**，未作修改，仅作参考引用。内容如下：
